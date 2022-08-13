@@ -18,4 +18,4 @@ This dataset consists of __1984 images__ belonging to two classes:
 
 ## :key: Results
 
-#### Thanks to Transfer Learning, model gave 98% accuracy for Face Mask Detection after training for 5 Epochs
+- Thanks to Transfer Learning, model gave 98% accuracy for Face Mask Detection after training for 5 Epochs
