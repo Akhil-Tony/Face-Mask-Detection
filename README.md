@@ -3,6 +3,7 @@
 <div align = "center">
 <img src = "https://github.com/Akhil-Tony/Face-Mask-Detection/blob/master/20220814_011941.gif" />
 </div>
+
 ## :bulb: Transfer Learning 
 <h5> build by reusing lower layers of Xception Model </h5>
 
