@@ -3,5 +3,5 @@
 <div align = "center">
 <img src = "https://github.com/Akhil-Tony/face-mask-detection-using-tensorflow/blob/master/20220814_011941.gif" />
 </div>
-<h2> Work </h2>
-<h5> Transfer Learning by using lower layers of Xception Model </h5>
+<h2> Transfer Learning </h2>
+<h5> build by reusing lower layers of Xception Model </h5>
