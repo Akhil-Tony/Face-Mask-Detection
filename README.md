@@ -5,7 +5,7 @@
 </div>
 
 ## :bulb: Transfer Learning 
-<h5> build by reusing lower layers of Xception Model </h5>
+- build by reusing lower layers of Xception Model 
 
 ## :file_folder: Dataset
 This dataset consists of __1984 images__ belonging to two classes:
