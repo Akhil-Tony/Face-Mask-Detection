@@ -5,3 +5,6 @@
 </div>
 <h2> Transfer Learning </h2>
 <h5> build by reusing lower layers of Xception Model </h5>
+This dataset consists of __4095 images__ belonging to two classes:
+*	__with_mask: 2165 images__
+*	__without_mask: 1930 images__
