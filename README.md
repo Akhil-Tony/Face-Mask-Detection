@@ -10,3 +10,6 @@ This dataset consists of __1984 images__ belonging to two classes:
 <br>
 *	__with_mask: 984 images__
 *	__without_mask: 1000 images__
+
+<h5> Data Augmentation </h5>
+Used Data Augmentation to reduce overfitting and improve performance even on poor lighting condition.
