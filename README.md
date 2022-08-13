@@ -14,3 +14,7 @@ This dataset consists of __1984 images__ belonging to two classes:
 <h4> Data Augmentation </h4>
 
 * Used Data Augmentation to reduce overfitting and improve performance even on poor lighting condition.
+
+## :key: Results
+
+#### model gave 98% accuracy for Face Mask Detection after training for 20 Epochs
