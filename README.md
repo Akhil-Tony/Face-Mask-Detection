@@ -3,18 +3,19 @@
 <div align = "center">
 <img src = "https://github.com/Akhil-Tony/Face-Mask-Detection/blob/master/20220814_011941.gif" />
 </div>
-<h2> Transfer Learning </h2>
+## :bulb: Transfer Learning 
 <h5> build by reusing lower layers of Xception Model </h5>
 
+## :file_folder: Dataset
 This dataset consists of __1984 images__ belonging to two classes:
 <br>
 *	__with_mask: 984 images__
 *	__without_mask: 1000 images__
 
-<h4> Data Augmentation </h4>
+## :gear: Data Augmentation 
 
 * Used Data Augmentation to reduce overfitting and improve performance even on poor lighting condition.
 
 ## :key: Results
 
-#### model gave 98% accuracy for Face Mask Detection after training for 20 Epochs
+#### Thanks to Transfer Learning, model gave 98% accuracy for Face Mask Detection after training for 5 Epochs
