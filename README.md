@@ -1,8 +1,8 @@
 <h1 align="center"> Face Mask Detection :mask: </h1>
-<h4>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 <div align = "center">
 <img src = "https://github.com/Akhil-Tony/Face-Mask-Detection/blob/master/20220814_011941.gif" />
 </div>
+<h4>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 
 ## :star: Frameworks used
 - TensorFlow
